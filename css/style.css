@@ -180,19 +180,22 @@ hr {
 }
 /* About Section */
 #about {
-	padding-top: 100px;
+	padding-top: 50px;
 	padding-bottom: 20px;
 	background: #f6f6f6;
 }
 #about img {
 	border-radius: 50%;
-	width: 200px;
-	height: 200px;
+	max-height: 200px;
 	display: inline-block;
 }
 #about p {
 	margin-top: 20px;
 	margin-bottom: 30px;
+}
+
+#aboutbio {
+	padding-top: 30px;
 }
 
 /* Portfolio Section */
